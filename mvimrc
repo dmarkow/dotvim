@@ -10,4 +10,4 @@ set lines=47 columns=179          " Window dimensions.
 
 set guioptions-=r                 " Don't show right scrollbar
 
-colorscheme desert                " I like the way this looks on Mac
+colorscheme topfunky-light                " I like the way this looks on Mac
