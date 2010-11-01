@@ -81,4 +81,3 @@ map <Leader>t :FuzzyFinderTextMate<Enter>
 autocmd BufNewFile,BufRead *_spec.rb compiler rspec
 
 let g:bufExplorerShowRelativePath=1
-
