@@ -12,7 +12,7 @@ runtime macros/matchit.vim        " Load the matchit plugin.
 
 set showcmd                       " Display incomplete commands.
 set showmode                      " Display the mode you're in.
-
+set modeline
 set backspace=indent,eol,start    " Intuitive backspacing.
 
 set hidden                        " Handle multiple buffers better.
